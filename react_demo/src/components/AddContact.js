@@ -14,7 +14,6 @@ const AddContact = (props) => {
 
         props.addContactHandler(state);
         setState({name:"",email:""})
-        console.log(props);
         navigate('/')
     }
 
