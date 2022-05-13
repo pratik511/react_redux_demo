@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "58b1ffba-97c1-4147-b875-6288d7e20779",
+      "name": "Pratik",
+      "email": "12@gmail.com"
+    },
+    {
+      "id": "c0cbdb75-0732-4559-9a65-08dd0be16c9e",
+      "name": "Manish",
+      "email": "gandhi@gmail.com"
+    },
+    {
+      "id": "aea6a719-06eb-4c93-9685-91c400673148",
+      "name": "Gautam",
+      "email": "gb@gmail.com"
+    },
+    {
+      "id": "e0ceff3b-de3d-44d9-b842-551cd8b95c7f",
+      "name": "Pratik Patel",
+      "email": "p1@gmail.com"
+    },
+    {
+      "id": "6d18687e-0ee7-4d14-9d0c-27887e2e5031",
+      "name": "Pratik",
+      "email": "12@gmail.com"
+    }
+  ]
+}
