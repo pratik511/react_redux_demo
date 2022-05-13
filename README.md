@@ -2,4 +2,4 @@
 
 
 
-database folder ni ander aa code nakhavo
+database name nu folder create karine folder ni ander aa code nakhavo
